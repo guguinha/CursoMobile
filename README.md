@@ -2,8 +2,9 @@
 
 Neste Repositorio serão guardados os Apps Criados durante o curso de Desenvolvimento Android
 
-Lista de aplicativos
-App1 -MyFirstApp 
+Lista de aplicativos:
+
+App1 -MyFirstApp \n
 App2 - Frases do Dia
 App3 - Idade de Cachorro
 App4 - Loading - Gasolina ou Alcool
