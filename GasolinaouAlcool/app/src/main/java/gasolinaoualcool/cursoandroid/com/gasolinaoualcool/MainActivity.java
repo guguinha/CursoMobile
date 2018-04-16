@@ -33,12 +33,18 @@ public class MainActivity extends AppCompatActivity {
                 String textoPrecoAlcool = precoAlcool.getText().toString();
                 String textoPrecoGasolina = precoGasolina.getText().toString();
 
-                if(textoPrecoAlcool.isEmpty())
-                    textoResultado.setText("Preço Alcool não digitado");
-                else {
+                if(textoPrecoAlcool.isEmpty()){
+                    if (textoPrecoGasolina.isEmpty())
+						textoResultado.setText("Preço dos Combustiveis não digitado");
+					else
+						textoResultado.setText("Preço Alcool não digitado");
+                }else {
                     if (textoPrecoGasolina.isEmpty())
                         textoResultado.setText("Preço Gasolina não digitado");
                     else{
+                        /*
+                        ** possivel futura correção 0/0, se for de graça é melhor usar gasolina
+                        **/
 
                         //Converter valores de String para numeros
                         Double valorAlcool = Double.parseDouble(textoPrecoAlcool);
