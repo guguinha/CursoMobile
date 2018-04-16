@@ -1,16 +1,20 @@
-# CursoMobile
+﻿# CursoMobile
 
 Neste Repositorio serão guardados os Apps Criados durante o curso de Desenvolvimento Android
 
 Lista de aplicativos:
 
-App1 -MyFirstApp
+- Meu Primeiro App
+
+App1 - Advinha
 
 App2 - Frases do Dia
 
 App3 - Idade de Cachorro
 
-App4 - Loading - Gasolina ou Alcool
+App4 - Gasolina ou Alcool
+
+- Mensagens Toast
 
 App5 - Waiting
 
