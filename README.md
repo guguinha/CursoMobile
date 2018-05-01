@@ -16,6 +16,10 @@ App4 - Gasolina ou Alcool
 
 - Mensagens Toast
 
+- Aula Activity
+
+- Projeto Activity
+
 App5 - Waiting
 
 App6 - Waiting
