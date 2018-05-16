@@ -24,7 +24,7 @@ App5 - ATM Empresa Consultoria
 
 - Dados Activity
 
-App6 - Waiting
+App6 - Cara ou Coroa
 
 App7 - Waiting
 
