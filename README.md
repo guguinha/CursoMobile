@@ -26,7 +26,9 @@ App5 - ATM Empresa Consultoria
 
 App6 - Cara ou Coroa
 
-App7 - Waiting
+- Aula ListView
+
+App7 - Signos
 
 App8 - Waiting
 
