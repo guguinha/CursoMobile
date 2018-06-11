@@ -30,6 +30,12 @@ App6 - Cara ou Coroa
 
 App7 - Signos
 
+- Aula Dialog
+
+- Aula checkBox
+
+- Aula SeekBar
+
 App8 - Waiting
 
 App9 - Waiting
