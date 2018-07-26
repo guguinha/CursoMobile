@@ -36,7 +36,7 @@ App7 - Signos
 
 - Aula SeekBar
 
-App8 - Waiting
+App8 - QualSerie
 
 App9 - Waiting
 
