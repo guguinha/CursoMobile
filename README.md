@@ -2,6 +2,11 @@
 
 Neste Repositorio serão guardados os Apps Criados durante o curso de Desenvolvimento Android
 
+- Pasta App's é contem todos os App's criados ate o momento
+
+- Pasta Tela App's contem as imagens de tela dos App's
+
+
 Lista de aplicativos:
 
 - Meu Primeiro App
